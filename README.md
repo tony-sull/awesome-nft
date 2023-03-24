@@ -1,2 +1,3 @@
-# awesome-nft
-About A curated list of awesome NFT projects.
+# Awesome NFT
+
+Turn back now before it's too late.
